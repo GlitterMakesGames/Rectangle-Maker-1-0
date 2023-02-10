@@ -1,0 +1,15 @@
+C:\Users\S1071204\source\repos\RectangleMaker\RectangleMaker\bin\Debug\net6.0\RectangleMaker.exe
+C:\Users\S1071204\source\repos\RectangleMaker\RectangleMaker\bin\Debug\net6.0\RectangleMaker.deps.json
+C:\Users\S1071204\source\repos\RectangleMaker\RectangleMaker\bin\Debug\net6.0\RectangleMaker.runtimeconfig.json
+C:\Users\S1071204\source\repos\RectangleMaker\RectangleMaker\bin\Debug\net6.0\RectangleMaker.dll
+C:\Users\S1071204\source\repos\RectangleMaker\RectangleMaker\bin\Debug\net6.0\RectangleMaker.pdb
+C:\Users\S1071204\source\repos\RectangleMaker\RectangleMaker\obj\Debug\net6.0\RectangleMaker.csproj.AssemblyReference.cache
+C:\Users\S1071204\source\repos\RectangleMaker\RectangleMaker\obj\Debug\net6.0\RectangleMaker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\S1071204\source\repos\RectangleMaker\RectangleMaker\obj\Debug\net6.0\RectangleMaker.AssemblyInfoInputs.cache
+C:\Users\S1071204\source\repos\RectangleMaker\RectangleMaker\obj\Debug\net6.0\RectangleMaker.AssemblyInfo.cs
+C:\Users\S1071204\source\repos\RectangleMaker\RectangleMaker\obj\Debug\net6.0\RectangleMaker.csproj.CoreCompileInputs.cache
+C:\Users\S1071204\source\repos\RectangleMaker\RectangleMaker\obj\Debug\net6.0\RectangleMaker.dll
+C:\Users\S1071204\source\repos\RectangleMaker\RectangleMaker\obj\Debug\net6.0\refint\RectangleMaker.dll
+C:\Users\S1071204\source\repos\RectangleMaker\RectangleMaker\obj\Debug\net6.0\RectangleMaker.pdb
+C:\Users\S1071204\source\repos\RectangleMaker\RectangleMaker\obj\Debug\net6.0\RectangleMaker.genruntimeconfig.cache
+C:\Users\S1071204\source\repos\RectangleMaker\RectangleMaker\obj\Debug\net6.0\ref\RectangleMaker.dll
